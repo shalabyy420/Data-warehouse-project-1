@@ -29,7 +29,7 @@ The project covers key data warehousing concepts, including:
 This project is intended to demonstrate practical knowledge of **SQL, ETL, data modeling, and Data Warehouse development** in a real-world business scenario.
 
 ## license
-The license of this project is MIT license that you can change and edit in this project it is free
+The license of this project is MIT license that you can change and edit this project it is free
 
 ## About Me
 I am Yusuf Magdi Shalaby I am a data engineer trying to sharpen my skills.
